@@ -1,0 +1,10 @@
+{
+  "name": "mapyo/composer_lib_test2",
+  "description": "composer library2",
+
+  "autoload": {
+    "psr-4": {
+      "Mapyo\\Lib2\\": "src/"
+    }
+  }
+}
